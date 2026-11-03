@@ -1,0 +1,8 @@
+/help
+Quiero comprar 2 LAPTOP-001 como CUST-123.
+NO
+/reset
+Quiero comprar 2 LAPTOP-001 como CUST-123.
+CONFIRMAR
+Consulta el stock actual de LAPTOP-001 y el estado de ORD-100 con herramientas.
+/exit
